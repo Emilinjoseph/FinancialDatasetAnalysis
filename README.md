@@ -1,6 +1,6 @@
 
 # FinancialDatasetAnalysis 
-[Presentation](www.google.com)
+
 
 [DataSet](https://docs.google.com/spreadsheets/d/1kmZtwNrw9_M0WtZSqfjK89xXlAYUXTzr/edit#gid=496722688) I used in this analysis.
 
