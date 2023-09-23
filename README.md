@@ -8,5 +8,5 @@
 The dataset I used in this analysis is [here](https://docs.google.com/spreadsheets/d/1kmZtwNrw9_M0WtZSqfjK89xXlAYUXTzr/edit#gid=496722688)
 
 # Presentation
-My insights are [here]
+My insights are [here](https://drive.google.com/file/d/1LfKFZ_Dj3xBKpHZwezJXKsDxYNxR3i_B/view?usp=sharing)
 
